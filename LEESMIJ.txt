@@ -1,0 +1,23 @@
+Accordion Tuning Lab 3.4 — Nederlandse leesmij
+
+Gratis programma voor het beluisteren en vergelijken van accordeonstemmingen, zweving en musette.
+
+INSTALLATIE ONDER WINDOWS
+
+1. Ga naar https://github.com/Zwadke/Accordion-Tuning-Lab/releases/latest
+2. Download onder Assets het bestand Accordion_Tuning_Lab_Setup.exe.
+3. Dubbelklik op het bestand en volg de installatie-instructies.
+4. Start Accordion Tuning Lab via het startmenu of de snelkoppeling op het bureaublad.
+
+Python en Inno Setup zijn niet nodig. Het installatiebestand is niet digitaal ondertekend. Windows kan daarom een SmartScreen-waarschuwing geven. Controleer of het bestand afkomstig is van de officiële projectpagina.
+
+GEBRUIK
+
+Wissel met NL / EN van taal. De taalkeuze wordt lokaal onthouden.
+Voorbeeldprofielen worden bij de eerste start gekopieerd naar %LOCALAPPDATA%\Accordion Tuning Lab\Profiles. Bestaande profielen worden niet overschreven.
+Oude JSON-profielen blijven bruikbaar.
+
+Nederlandse handleiding:
+https://github.com/Zwadke/Accordion-Tuning-Lab/blob/main/docs/Handleiding-NL.md
+
+Het programma is beschikbaar onder de MIT-licentie. Voor ontwikkelaars staan afzonderlijke bouwinstructies in BUILD.md.
